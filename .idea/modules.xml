@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/college/POO/Do_While/Do_While.iml" filepath="$PROJECT_DIR$/college/POO/Do_While/Do_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/college/POO/Matriz/Matriz.iml" filepath="$PROJECT_DIR$/college/POO/Matriz/Matriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/college/POO/POO.iml" filepath="$PROJECT_DIR$/college/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/college/POO/Vetor/Vetor.iml" filepath="$PROJECT_DIR$/college/POO/Vetor/Vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projetos.iml" filepath="$PROJECT_DIR$/.idea/projetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/college/POO/repetition/repetition.iml" filepath="$PROJECT_DIR$/college/POO/repetition/repetition.iml" />
     </modules>
