@@ -7,7 +7,7 @@ public class Ex3 {
         for (int i = 0; i < v.length; i++) {
             media += v[i];
         }
-        media /= v.length;;
+        media /= v.length;
 
         //Calculo desvio padrao
         double soma = 0, desvio;
